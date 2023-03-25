@@ -1,0 +1,9 @@
+import streamlit as st
+
+# Find more emojis here: https://www.webfx.com/tools/emoji-cheat-sheet/
+st.set_page_config(page_title="My Webpage", page_icon=":tada:", layout="wide")
+
+st.subheader("hii, I am Ramy :wave:")
+st.title("A Programmer")
+st.write("I am passionate about doing unique things")
+st.write("[Learn More >](https://pythonandvba.com)")
